@@ -1,0 +1,65 @@
+
+
+
+    body{
+        background-color: black;
+        height: 100%;
+        
+        
+    }
+ #parallaxlogo{
+    height:50%;
+    width:50%;
+    position: relative;
+    
+    left: 25%;
+    top: 25%;
+}
+#landing{
+    height: 100%;
+    
+    
+} 
+#teclogo{
+    height:10%;
+    width:10%;
+    position: absolute;
+    
+    left: 90%;
+    top: 2%;
+}
+#home{
+    height: 100%;
+    padding-top: 10%;
+    padding-bottom: 30%;
+}
+.border{
+    color: blanchedalmond;
+    border-bottom-style: solid;
+    border-bottom-color: crimson;
+    border-bottom-width: 3%;
+    padding-bottom: 2%;
+}
+p{
+    color: blanchedalmond;
+}
+#tracks{
+    height: 100%;
+    padding-top: 10%;
+    padding-bottom: 30%;
+    
+}
+.track-icons{
+
+    width: 10%;
+    height: 10%;
+}
+.tracks{
+    position: absolute;
+    left:100%;
+    margin: 10%;
+}
+.track-text{
+    float: right;
+}
+
