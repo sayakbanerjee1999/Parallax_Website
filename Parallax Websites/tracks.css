@@ -1,0 +1,95 @@
+body,html {
+    /* background-color: black; */
+    height:100%;
+    width:100%;
+}
+.tracks #title h1{
+    color: white;
+    font-weight: 500;
+    margin-top: 6%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+}
+.tracks #title hr{
+    border-bottom: 11px solid crimson;
+    width:12%;
+    position: relative;
+    left: -32%;
+    padding-top:0;
+    margin-top:1.2%;
+}
+#dis-img{
+    margin-top:8%;
+    /* height:40% */
+}
+.tracks #ind-tracks #track-1 p{
+    position: relative;
+    top: -35%;
+    left:38%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    /* font-size: 17px; */
+}
+#agri-img{
+    margin-top:10.5%;
+    position: relative;
+    left:2%;
+}
+.tracks #ind-tracks #track-2 p{
+    position: relative;
+    top: -36%;
+    left:41.5%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    /* font-size: 17px; */
+}
+#safe-img{
+    margin-top:5%;
+}
+.tracks #ind-tracks #track-3 p{
+    position: relative;
+    top: -33%;
+    left:38%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    /* font-size: 17px; */
+}
+#def-img{
+    position:relative;
+    right:6%;
+    margin-top:7.3%;
+    width:40%;
+}
+.tracks #ind-tracks #track-4 p{
+    position: relative;
+    top: -30%;
+    left:42%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    /* font-size: 17px; */
+}
+#health-img{
+    margin-top:7.5%;
+}
+.tracks #ind-tracks #track-5 p{
+    position: relative;
+    top: -33%;
+    left:38%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    /* font-size: 17px; */
+}
+#indus-img{
+    margin-top:10.5%;
+    height:52%;
+    position:relative;
+    left:-2.25%;
+}
+.tracks #ind-tracks #track-6 p{
+    position: relative;
+    top: -33%;
+    left:42%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    /* font-size: 17px; */
+}
