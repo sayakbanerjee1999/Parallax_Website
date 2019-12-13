@@ -1,0 +1,32 @@
+body,html{
+    height:100%;
+    width:100%;
+}
+.sponsors #spon h1{
+    color: white;
+    font-weight: 700;
+    padding-top: 7%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+}
+.sponsors #spon hr{
+    border-bottom: 11px solid crimson;
+    width:17%;
+    position: relative;
+    left: -28%;
+    padding-top:0;
+    margin-top:1.2%;
+}
+.sponsors #sponsors-post #sponsors-row1{
+    padding-top:4.5%;
+}
+.sponsors #sponsors-post #sponsors-row2{
+    padding-top:7%;
+}
+.sponsors #sponsors-post #sponsor-text{
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    font-size: 1.2rem;
+    text-align: justify;
+    padding-top: 3.5%;
+}
