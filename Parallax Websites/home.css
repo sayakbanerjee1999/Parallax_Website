@@ -1,0 +1,28 @@
+body,html {
+    /* background-color: black; */
+    height:100%;
+    width:100%;
+}
+.home-page #home h1{
+    color: white;
+    font-weight: 700;
+    padding-top: 10%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+.home-page #home hr{
+    border-bottom: 11px solid crimson;
+    width:13%;
+    position: relative;
+    left: -35%;
+    padding-top:0;
+    margin-top:1.2%;
+}
+.home-page #home-content p{
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255,255,255,0.70);
+    text-align: justify;
+}
+.home-page #home-content .content-1{
+    padding-top:4.5%;
+}
